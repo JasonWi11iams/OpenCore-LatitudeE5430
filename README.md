@@ -1,7 +1,7 @@
 # Version
 
-MacOS 10.15.7
-Opencore = v0.7.8
+	MacOS 10.15.7
+	Opencore = v0.7.8
 
 # Specs
 
